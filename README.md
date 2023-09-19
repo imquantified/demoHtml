@@ -1,5 +1,5 @@
-# demoHtml
-A Demo HTML Site from the Computing Fundamentals Course
+# A Website
+A demo basic demo website
 
 # Author
 Seth Quant
